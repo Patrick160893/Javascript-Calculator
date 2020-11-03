@@ -1,9 +1,0 @@
-{
-  "name": "calculator",
-  "version": "0.0.0",
-  "description": "Calculator",
-  "main": "server.js",
-  "author": {
-    "name": ""
-  }
-}
